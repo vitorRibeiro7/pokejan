@@ -31,7 +31,7 @@
 
 <h2 align="center"> <strong> Sobre o projeto </strong> </h2>
 
-<h4 align="left">Este é um projeto de código aberto onde deixo minha minhas primeiras contribuições e a participação em um processo seletivo para uma vaga de desenvolvedor front end. O projeto em si prevê em seus requisitos, a utilização da POKEAPI V2, uma API RESTFUL baseada em pokemon, que, em sua execução, mantem endpoints que nos proporciona dados sobre os pokemons; vida, ataque, velocidade, foto, entre outras infos e estatisticas.
+<h4 align="left">Este é um projeto de código aberto onde deixo minhas primeiras contribuições e a participação em um processo seletivo para uma vaga de desenvolvedor front end. O projeto em si prevê em seus requisitos, a utilização da POKEAPI V2, uma API RESTFUL baseada em pokemon, que, em sua execução, mantem endpoints que nos proporciona dados sobre os pokemons; vida, ataque, velocidade, foto, entre outras infos e estatisticas.
 <br>
 </h4>
 
